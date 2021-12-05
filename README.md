@@ -25,7 +25,7 @@ pull logs)
 
 * Please check shared slides for any reference *
 
-
+```
 Sample agent config for passive checks on Ubuntu
 # File for process id
 PidFile=/run/zabbix/zabbix_agentd.pid
@@ -50,3 +50,4 @@ TLSAccept=unencrypted
 #TLSPSKIdentity=$PSK_NAME
 # Location of PSK
 #TLSPSKFile=$PSK_PATH
+```
